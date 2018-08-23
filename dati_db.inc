@@ -17,8 +17,8 @@
 */
 
         $host="localhost"; // Hostname
-        $username="root"; // Mysql username
-        $password=""; // Mysql password
-        $db_name="sinx"; //Nome del Database
+        $username="mlos68"; // Mysql username
+        $password="12.iara7"; // Mysql password
+        $db_name="gestionale"; //Nome del Database
 
 ?>
